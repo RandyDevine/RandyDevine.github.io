@@ -1,7 +1,7 @@
 [{
-	"_id": "ruanjian",
-	"classify": "软件·社区",
-	"icon": "ti-download",
+	"_id": "yunyingshang",
+	"classify": "运营商",
+	"icon": "isp",
 	"sites": [{
 		"name": "520解说",
 		"href": "https://www.youtube.com/@LRH520",
@@ -75,7 +75,7 @@
 	}]
 }, {
 	"_id": "ruanjian",
-	"classify": "软件·社区111",
+	"classify": "软件·社区",
 	"icon": "ti-download",
 	"sites": [{
 		"name": "520解说",
