@@ -1,7 +1,7 @@
 [{
 	"_id": "yunyingshang",
 	"classify": "运营商",
-	"icon": "isp",
+	"icon": "ti-signal",
 	"sites": [{
 		"name": "520解说",
 		"href": "https://www.youtube.com/@LRH520",
