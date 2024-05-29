@@ -73,7 +73,7 @@
 		"desc": "在线ps，支持绝大多数功能。",
 		"logo": "static/icons/photopea.com.png"
 	}]
-},{
+}, {
 	"_id": "ruanjian",
 	"classify": "软件·社区",
 	"icon": "ti-download",
