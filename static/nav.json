@@ -3,24 +3,24 @@
 	"classify": "运营商",
 	"icon": "ti-signal",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
+		"name": "咪咕快游",
+		"href": "https://www.migufun.com/",
+		"desc": "主页",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
+		"name": "咪咕快游",
+		"href": "https://www.migufun.com/middleh5/?appChannel=40257748961&sso=ho&ssoType=cmcc&channelId=P00000025745&yx=1100494004",
+		"desc": "关怀版2小时时长",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
+		"name": "权益超市",
+		"href": "https://fjqy-market.cmicvip.cn",
+		"desc": "中国移动权益超市",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
+		"name": "红包雨",
+		"href": "https://wap.fj.10086.cn/bass-newEquityH5/",
+		"desc": "中国移动APP红包雨",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
 		"name": "殁漂遥",
