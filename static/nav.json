@@ -26,37 +26,37 @@
 		"name": "橄榄头",
 		"href": "https://www.fjglt.com/",
 		"desc": "橄榄头官网",
-		"logo": "static/icons/mpyit.com.ico"
+		"logo": "static/icons/fjglt.cn.ico"
 	}, {
 		"name": "福建移动",
 		"href": "http://f0q.cn/1pollw",
 		"desc": "活动链接",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "static/icons/fjglt.cn.ico"
 	}, {
 		"name": "福建联通",
 		"href": "http://f0q.cn/1rkqsX",
 		"desc": "活动链接",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "static/icons/fjglt.cn.ico"
 	}, {
 		"name": "福建电信",
-		"href": "活动链接",
-		"desc": "加密与解密，渗透与反渗透",
+		"href": "http://f0q.cn/1rkqsX",
+		"desc": "活动链接",
 		"logo": "static/icons/kanxue.com.ico"
 	}, {
 		"name": "福建广电",
 		"href": "http://f0q.cn/22eqE6",
 		"desc": "活动链接",
-		"logo": "static/icons/sspai.com.ico"
+		"logo": "static/icons/fjglt.cn.ico"
 	}, {
-		"name": "Zdfans",
-		"href": "https://www.zdfans.com/",
-		"desc": "转手之后变得很难看，但还能用",
-		"logo": "static/icons/zdfans.com.ico"
+		"name": "福建权益",
+		"href": "https://tidi.mobi/j/",
+		"desc": "朴朴",
+		"logo": ""
 	}, {
-		"name": "小众软件",
-		"href": "https://www.appinn.com/",
-		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
-		"logo": "static/icons/appinn.com.ico"
+		"name": "福建权益",
+		"href": "https://tidi.mobi/b/",
+		"desc": "永辉",
+		"logo": ""
 	}, {
 		"name": "果核剥壳",
 		"href": "https://www.ghpym.com/",
